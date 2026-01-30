@@ -9,6 +9,7 @@
 - 🛒 Full e-commerce website (frontend + backend)
 - 🎮 Java educational game (OOP, MVC, database)
 - 📊 Pitch deck & technical project presentations
+- 🔄 ETL Business Intelligence project (data extraction, transformation & loading)
 
 
 ## 🌐 Socials:
