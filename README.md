@@ -1,4 +1,4 @@
-## Hi there i'm Rym 👋
+## Hey there i'm Rym 👋
 
 🎓 Computer Science Engineer  
 💻 Java | Python | JavaScript | PHP | SQL | C  
