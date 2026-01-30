@@ -1,5 +1,15 @@
 ## Hi there i'm Rym 👋
 
+🎓 Computer Science Engineer  
+💻 Java | Python | JavaScript | PHP | SQL | C  
+🌐 Web Development • Security • Problem Solving
+
+## What I’ve built
+- 🔐 Offensive security tool (academic project)
+- 🛒 Full e-commerce website (frontend + backend)
+- 🎮 Java educational game (OOP, MVC, database)
+- 📊 Pitch deck & technical project presentations
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ryymii._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rym-chabane-567a803a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rymchabane07@gmail.com) 
