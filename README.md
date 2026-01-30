@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 i'm Rym
 
-<!--
-**rymchabane/rymchabane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Rym 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineer  
+💻 Java | Python | JavaScript | PHP | SQL | C  
+🌐 Web Development • Cyber Security • Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’ve built
+- 🔐 Offensive security tool (academic project)
+- 🛒 Full e-commerce website (frontend + backend)
+- 🎮 Java educational game Eureka (OOP, MVC, database)
+- 📊 Pitch deck & technical project presentations
+
+### Skills
+- Backend: Java, Python, PHP
+- Frontend: HTML, CSS, JavaScript
+- Databases: SQL
+- Concepts: OOP, MVC, problem solving, basic security
+
+### Currently
+- Improving my projects
+- Writing cleaner code
+- Turning academic work into real-world applications
+
